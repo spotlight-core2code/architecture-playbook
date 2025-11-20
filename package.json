@@ -1,0 +1,14 @@
+{
+  "name": "architecture-playbook",
+  "version": "1.0.0",
+  "description": "Architecture Playbook – clarity, structure and decision-making using C4 models and ADRs.",
+  "private": true,
+  "scripts": {
+    "fmt": "prettier --write .",
+    "lint": "prettier --check ."
+  },
+  "devDependencies": {
+    "prettier": "^3.3.3"
+  }
+}
+
